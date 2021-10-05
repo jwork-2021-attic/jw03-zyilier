@@ -36,6 +36,6 @@ public class BubbleSorter implements Sorter {
     @Override
     public String getPlan() {
         return this.plan;
-    }
-
+    }   
+ 
 }
